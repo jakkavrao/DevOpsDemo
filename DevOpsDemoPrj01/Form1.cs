@@ -22,5 +22,10 @@ namespace DevOpsDemoPrj01
             lblResult.Text = (Convert.ToInt32(txtValue1.Text) + Convert.ToInt32(txtValue2.Text)).ToString();
 
         }
+
+        private void btnMultiply_Click(object sender, EventArgs e)
+        {
+            lblResult.Text = (Convert.ToInt32(txtValue1.Text) * Convert.ToInt32(txtValue2.Text)).ToString();
+        }
     }
 }

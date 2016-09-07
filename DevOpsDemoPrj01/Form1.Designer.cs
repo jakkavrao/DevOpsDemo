@@ -53,6 +53,7 @@
             this.btnMultiply.TabIndex = 1;
             this.btnMultiply.Text = "Multiply";
             this.btnMultiply.UseVisualStyleBackColor = true;
+            this.btnMultiply.Click += new System.EventHandler(this.btnMultiply_Click);
             // 
             // lblResult
             // 
