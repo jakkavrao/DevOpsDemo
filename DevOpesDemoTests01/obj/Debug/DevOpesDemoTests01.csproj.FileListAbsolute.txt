@@ -1,0 +1,8 @@
+D:\DevOpsDemo\DevOpsDemoPrj01\DevOpesDemoTests01\bin\Debug\DevOpesDemoTests01.dll
+D:\DevOpsDemo\DevOpsDemoPrj01\DevOpesDemoTests01\bin\Debug\DevOpesDemoTests01.pdb
+D:\DevOpsDemo\DevOpsDemoPrj01\DevOpesDemoTests01\bin\Debug\DevOpsDemoPrj01.exe
+D:\DevOpsDemo\DevOpsDemoPrj01\DevOpesDemoTests01\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\DevOpsDemo\DevOpsDemoPrj01\DevOpesDemoTests01\bin\Debug\DevOpsDemoPrj01.pdb
+D:\DevOpsDemo\DevOpsDemoPrj01\DevOpesDemoTests01\obj\Debug\DevOpesDemoTests01.csprojResolveAssemblyReference.cache
+D:\DevOpsDemo\DevOpsDemoPrj01\DevOpesDemoTests01\obj\Debug\DevOpesDemoTests01.dll
+D:\DevOpsDemo\DevOpsDemoPrj01\DevOpesDemoTests01\obj\Debug\DevOpesDemoTests01.pdb

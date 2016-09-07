@@ -1,0 +1,8 @@
+D:\DevOpsDemo\DevOpsDemoPrj01\DevOpsDemoPrj01\bin\Debug\DevOpsDemoPrj01.exe.config
+D:\DevOpsDemo\DevOpsDemoPrj01\DevOpsDemoPrj01\bin\Debug\DevOpsDemoPrj01.exe
+D:\DevOpsDemo\DevOpsDemoPrj01\DevOpsDemoPrj01\bin\Debug\DevOpsDemoPrj01.pdb
+D:\DevOpsDemo\DevOpsDemoPrj01\DevOpsDemoPrj01\obj\Debug\DevOpsDemoPrj01.frmMain.resources
+D:\DevOpsDemo\DevOpsDemoPrj01\DevOpsDemoPrj01\obj\Debug\DevOpsDemoPrj01.Properties.Resources.resources
+D:\DevOpsDemo\DevOpsDemoPrj01\DevOpsDemoPrj01\obj\Debug\DevOpsDemoPrj01.csproj.GenerateResource.Cache
+D:\DevOpsDemo\DevOpsDemoPrj01\DevOpsDemoPrj01\obj\Debug\DevOpsDemoPrj01.exe
+D:\DevOpsDemo\DevOpsDemoPrj01\DevOpsDemoPrj01\obj\Debug\DevOpsDemoPrj01.pdb
