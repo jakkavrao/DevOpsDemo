@@ -6,3 +6,4 @@ D:\DevOpsDemo\DevOpsDemoPrj01\DevOpsDemoPrj01\obj\Debug\DevOpsDemoPrj01.Properti
 D:\DevOpsDemo\DevOpsDemoPrj01\DevOpsDemoPrj01\obj\Debug\DevOpsDemoPrj01.csproj.GenerateResource.Cache
 D:\DevOpsDemo\DevOpsDemoPrj01\DevOpsDemoPrj01\obj\Debug\DevOpsDemoPrj01.exe
 D:\DevOpsDemo\DevOpsDemoPrj01\DevOpsDemoPrj01\obj\Debug\DevOpsDemoPrj01.pdb
+D:\DevOpsDemo\DevOpsDemoPrj01\DevOpsDemoPrj01\obj\Debug\DevOpsDemoPrj01.csprojResolveAssemblyReference.cache
