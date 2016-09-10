@@ -20,7 +20,7 @@ namespace DevOpsDemoPrj01
         private void btnAdd_Click(object sender, EventArgs e)
         {
             lblResult.Text = (Convert.ToInt32(txtValue1.Text) + Convert.ToInt32(txtValue2.Text)).ToString();
-            lblResult.ForeColor = Color.Green;
+         //   lblResult.ForeColor = Color.Green;
         }
 
         private void btnMultiply_Click(object sender, EventArgs e)
